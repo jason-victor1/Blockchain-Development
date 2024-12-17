@@ -13,7 +13,7 @@ This repo documents my **first step** into learning blockchain development. I fo
    - Exploration of how networks agree on transaction validity, including Proof of Work (PoW) and Proof of Stake (PoS).
 
 ### 3. **Smart Contracts**
-   - Introduction to building **smart contracts** on the blockchain using Solidity.
+   - Learned about the purpose and current landscape of smart contracts, including their role in decentralization, security, and transparency.
 
 ### 4. **Nodes**
    - Understanding nodes as the building blocks of blockchain networks.
@@ -60,10 +60,37 @@ By applying these skills, I aim to create secure, functional, and interactive sm
 ---
 
 ## **Technologies and Tools**
-- **Blockchain**: Ethereum, Layer 1, Layer 2
-- **Languages**: Solidity
-- **Tools**: MetaMask
-- **Security**: Cryptographic principles and gas optimizations
+
+#### **Blockchain**  
+- **Ethereum (Layer 1):**  
+   - Used to understand blockchain fundamentals, transactions, and consensus mechanisms on the main Ethereum network.  
+
+- **Layer 2 Solutions:**  
+   - **zkSync Era:** Explored Layer 2 scaling solutions, learning cross-chain interactions and the benefits of rollups for scalability and low fees.   
+
+#### **Tools**  
+- **MetaMask:**  
+   - Configured for Ethereum and zkSync Sepolia Testnets to set up wallets and manage test ETH for transactions.  
+   - Enabled interaction with decentralized applications and the zkSync bridge.  
+
+- **Google Sepolia Faucet:**  
+   - Provided Sepolia test ETH for conducting testnet transactions without financial risk.  
+
+- **zkSync Bridge:**  
+   - Facilitated bridging of ETH from Sepolia Ethereum (L1) to zkSync Sepolia (L2), enabling hands-on experience with cross-chain transactions.  
+
+- **Sepolia Etherscan:**  
+   - A block explorer used to verify and track transaction statuses, gas fees, and wallet activities on the Sepolia testnet.  
+
+- **zkSync Era Block Explorer:**  
+   - Used to monitor transaction confirmations and details on the zkSync Sepolia Testnet for enhanced transparency.  
+
+#### **Security**  
+- **Cryptographic Principles:**  
+   - Applied cryptography to ensure secure and immutable smart contract deployments.  
+
+- **Gas Optimizations:**  
+   - Implemented best practices to minimize gas fees and optimize smart contract efficiency which ensures cost-effectiveness during development and deployment.  
 
 ---
 
