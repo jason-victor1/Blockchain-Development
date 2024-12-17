@@ -4,7 +4,7 @@ This repo documents my **first step** into learning blockchain development. I fo
 
 ---
 
-## 📚 **What I Learned**
+## **What I Learned**
 
 ### 1. **Blockchain Fundamentals**
    - Understanding the basics of distributed ledgers and decentralized systems.
@@ -43,11 +43,19 @@ This repo documents my **first step** into learning blockchain development. I fo
 
 ## **Next Steps**
 
-With the foundational skills in place, my **next goal** is to move into **advanced smart contract development**. This will involve:
+My **next goal** is to move into **advanced smart contract development and security concepts** with the foundational skills in place. This will include:
 
-- Building more complex Solidity smart contracts.
-- Deepening my knowledge of Ethereum and Layer 2 scaling solutions.
-- Exploring decentralized finance (DeFi) protocols and decentralized autonomous organizations (DAOs).
+- Hands-on experience with **Solidity** for smart contract development.  
+- Learning data structures, data types, function calls, and the process of deploying smart contracts.  
+- Building real-world examples, testing codebases on testnets, and connecting front-end interfaces to interact with smart contracts.
+
+### **Topics to Explore:**
+- Introduction to Solidity  
+- Smart contract development and deployment  
+- Blockchain oracles  
+- Smart contract testing  
+
+By applying these skills, I aim to create secure, functional, and interactive smart contracts that are production-ready. 
 
 ---
 
@@ -65,7 +73,7 @@ The skills I am building lay the groundwork for a strong career in blockchain de
 
 --- 
 
-### 🎓 **Course Reference**
+### **Course Reference**
 This journey was made possible through **Cyrfrin Updraft's Introductory Blockchain Developer Course**.
 
 ---
