@@ -1,71 +1,74 @@
-# **Blockchain Development Monorepo**
+# **Blockchain Development Portfolio**
 
-This repository serves as a **parent repository (monorepo)** that links to smaller, focused projects exploring various blockchain concepts and smart contract development. It is a comprehensive collection of my journey into blockchain development. Also, it begins with foundational skills and progressing to advanced topics.
-
----
-
-## **Purpose of the Monorepo**
-
-The **Blockchain Development Monorepo** is designed to:  
-1. **Organize** related blockchain projects into one central location for ease of navigation and collaboration.  
-2. **Document** my learning progress in blockchain development and smart contract programming.  
-3. **Showcase** practical implementations of blockchain concepts, security practices, and smart contract optimizations.  
-4. **Serve as inspiration** for others who want to follow a similar path into blockchain development.
-
-Each sub-repository represents a self-contained module that focuses on a specific blockchain-related topic.
+This repo is a collection of my blockchain development projects. It documents my journey from foundational concepts to advanced topics. It showcases hands-on experience with Ethereum, zkSync, smart contracts, and blockchain scaling solutions.
 
 ---
 
-## **Sub-Repository Organization**
+## **Purpose**
 
-The monorepo links to the following sub-repositories and they are categorized by topic:  
+This portfolio serves as:  
+1. A demonstration of my blockchain development skills.  
+2. A structured reference of projects covering blockchain fundamentals, smart contracts, and scaling solutions.  
+3. Evidence of my ability to apply blockchain concepts to real-world scenarios.
 
-### **Blockchain Fundamentals**
-- [Blockchain Intro](https://github.com/jason-victor1/Blockchain-Intro)  
-  *Introduction to distributed ledgers and decentralized systems.*  
+---
 
-- [How Do Blockchains Work](https://github.com/jason-victor1/how-do-blockchains-work)  
-  *Explains the underlying mechanisms of blockchain systems.*
+## **Table of Contents**
 
-- [Blockchain Overview](https://github.com/jason-victor1/blockchain-overview)  
-  *Covers key blockchain components and terminology.*  
+1. [Blockchain Fundamentals](#blockchain-fundamentals)  
+2. [Smart Contracts](#smart-contracts)  
+3. [Hands-On Blockchain Development](#hands-on-blockchain-development)  
+4. [Scaling Solutions](#scaling-solutions)  
+5. [zkSync Development](#zksync-development)  
 
-### **Smart Contracts**
-- [Smart Contracts Purpose](https://github.com/jason-victor1/smart-contracts-purpose)  
-  *Explains the purpose and benefits of smart contracts.*  
+---
 
-- [Smart Contract Landscape](https://github.com/jason-victor1/Smart-Contract-Landscape)  
-  *Explores the current ecosystem and applications of smart contracts.*  
+## **Blockchain Fundamentals**
 
-### **Hands-On Blockchain Development**
-- [My First Transaction](https://github.com/jason-victor1/my-first-transaction)  
-  *Practical guide to sending your first blockchain transaction.*  
+Explore the basics of blockchain technology and its core components:  
 
-- [Gas Intro](https://github.com/jason-victor1/Gas-Intro)  
-  *Introduction to gas fees and their role in blockchain transactions.*  
+- [**Blockchain Intro**](https://github.com/jason-victor1/Blockchain-Intro): Introduction to distributed ledgers and decentralized systems.  
+- [**How Do Blockchains Work**](https://github.com/jason-victor1/how-do-blockchains-work): Explains the underlying mechanisms of blockchain systems.  
+- [**Blockchain Overview**](https://github.com/jason-victor1/blockchain-overview): Covers key blockchain components and terminology.  
 
-- [Signing Transactions](https://github.com/jason-victor1/Signing-Transactions)  
-  *How to securely sign and verify blockchain transactions.*  
+---
 
-- [Advanced Gas Concepts](https://github.com/jason-victor1/advanced-gas-concepts)  
-  *Explores gas optimizations for cost-effective smart contract execution.*  
+## **Smart Contracts**
 
-### **Scaling Solutions**
-- [L1s, L2s, and Rollups](https://github.com/jason-victor1/L1s-L2s-Rollups)  
-  *Covers Layer 1 solutions, Layer 2 scaling mechanisms, and rollups.*  
+Dive into the purpose and applications of smart contracts:  
 
-- [Centralized Sequencers](https://github.com/jason-victor1/Centralized-Sequencers)  
-  *Explains the role of centralized sequencers in Layer 2 solutions.*  
+- [**Smart Contracts Purpose**](https://github.com/jason-victor1/smart-contracts-purpose): Explains the purpose and benefits of smart contracts.  
+- [**Smart Contract Landscape**](https://github.com/jason-victor1/Smart-Contract-Landscape): Explores the current ecosystem and applications of smart contracts.  
 
-- [Rollup Stages](https://github.com/jason-victor1/Rollup-Stages)  
-  *Breaks down the process and benefits of rollups.*  
+---
 
-### **zkSync Development**
-- [zkSync First Transaction](https://github.com/jason-victor1/zkSync-first-transaction)  
-  *A step-by-step guide to conducting transactions on zkSync.*  
+## **Hands-On Blockchain Development**
 
-- [zkSync Era](https://github.com/jason-victor1/zkSync-Era)  
-  *Advanced exploration of zkSync and its features.*  
+Practical projects showcasing real-world blockchain interactions:  
+
+- [**My First Transaction**](https://github.com/jason-victor1/my-first-transaction): A practical guide to sending your first blockchain transaction.  
+- [**Gas Intro**](https://github.com/jason-victor1/Gas-Intro): Introduction to gas fees and their role in blockchain transactions.  
+- [**Signing Transactions**](https://github.com/jason-victor1/Signing-Transactions): How to securely sign and verify blockchain transactions.  
+- [**Advanced Gas Concepts**](https://github.com/jason-victor1/advanced-gas-concepts): Explores gas optimizations for cost-effective smart contract execution.  
+
+---
+
+## **Scaling Solutions**
+
+Learn about scaling Ethereum and other blockchain networks:  
+
+- [**L1s, L2s, and Rollups**](https://github.com/jason-victor1/L1s-L2s-Rollups): Covers Layer 1 solutions, Layer 2 scaling mechanisms, and rollups.  
+- [**Centralized Sequencers**](https://github.com/jason-victor1/Centralized-Sequencers): Explains the role of centralized sequencers in Layer 2 solutions.  
+- [**Rollup Stages**](https://github.com/jason-victor1/Rollup-Stages): Breaks down the process and benefits of rollups.  
+
+---
+
+## **zkSync Development**
+
+Projects focused on zkSync, a Layer 2 Ethereum scaling solution:  
+
+- [**zkSync First Transaction**](https://github.com/jason-victor1/zkSync-first-transaction): A step-by-step guide to conducting transactions on zkSync.  
+- [**zkSync Era**](https://github.com/jason-victor1/zkSync-Era): Advanced exploration of zkSync and its features.  
 
 ---
 
@@ -73,39 +76,25 @@ The monorepo links to the following sub-repositories and they are categorized by
 
 #### **Blockchain Platforms**  
 - **Ethereum (Layer 1):**  
-   - Served as the foundational platform for understanding blockchain fundamentals, transactions, and consensus mechanisms.  
-   - Focused on decentralized systems, transaction processing, and smart contract deployments.  
-
+   - Understanding blockchain fundamentals, transactions, and consensus mechanisms.  
 - **zkSync Era (Layer 2):**  
-   - Explored zkSync as a Layer 2 scaling solution for Ethereum, focusing on reduced transaction costs and scalability through rollups.  
-   - Hands-on experience with bridging assets from Ethereum to zkSync for cross-chain interactions.  
-   - Learned about the architecture and benefits of zkSync’s decentralized sequencing and zero-knowledge proof-based security.
+   - Layer 2 scaling solutions focusing on scalability and low fees.  
 
-#### **Development Tools**  
-- **MetaMask:**  
-   - Configured MetaMask for Ethereum and zkSync Sepolia testnets to manage wallets and test ETH.  
-   - Facilitated secure interactions with decentralized applications (dApps) and blockchain networks.  
+#### **Tools**  
+- **MetaMask:** Configured for Ethereum and zkSync Sepolia testnets to manage wallets and test ETH.  
+- **Google Sepolia Faucet:** Provided test ETH for conducting transactions.  
+- **zkSync Bridge:** Facilitated cross-chain transactions from Layer 1 to Layer 2.  
+- **Block Explorers:** Used Sepolia Etherscan and zkSync Era Block Explorer for transaction verification and monitoring.  
 
-- **Google Sepolia Faucet:**  
-   - Provided Sepolia test ETH for experimenting with Ethereum transactions in a safe environment.  
+#### **Security Practices**  
+- **Cryptographic Principles:** Ensuring secure smart contract deployments.  
+- **Gas Optimizations:** Minimizing transaction costs with efficient smart contract design.  
 
-- **zkSync Bridge:**  
-   - Used to bridge ETH from Ethereum’s Sepolia Testnet (Layer 1) to zkSync Sepolia (Layer 2), enabling hands-on experience with cross-chain asset transfers.  
+---
 
-- **Sepolia Etherscan:**  
-   - A powerful block explorer for monitoring transaction statuses, gas usage, and wallet activity on the Ethereum Sepolia Testnet.  
+## **Why This Matters**
 
-- **zkSync Era Block Explorer:**  
-   - Monitored zkSync Sepolia transactions, providing insights into Layer 2 activity and rollup confirmations.  
-
-#### **Security Tools and Practices**  
-- **Cryptographic Principles:**  
-   - Gained proficiency in applying cryptography for secure smart contract deployments and transaction validation.  
-   - Explored cryptographic hashes and encryption techniques essential for blockchain security.  
-
-- **Gas Optimization:**  
-   - Implemented optimization techniques to minimize gas fees during smart contract execution and improve cost efficiency.  
-   - Learned advanced concepts to manage computational overhead effectively.  
+This portfolio showcases my ability to apply blockchain concepts to real-world scenarios and lays the foundation for my career in blockchain development. I aim to build secure, scalable, and innovative solutions for the Web3 ecosystem.
 
 ---
 
@@ -118,15 +107,6 @@ As I have these foundational concepts in place, my next steps include:
 
 ---
 
-## **Why This Matters**
-
-This monorepo is a testament to my journey as I transition from a beginner to a skilled blockchain developer. Each project contributes to a larger understanding of the blockchain ecosystem. This will help me prepare for real-world applications and career opportunities in the Web3 space.
-
----
-
-Feel free to explore each sub-repository and follow along with my blockchain development journey!  
-
---- 
-
 ### **Acknowledgment**
 This journey was initiated through the **Cyfrin Updraft Introductory Blockchain Developer Course**, which provided a strong foundation in blockchain concepts.
+
